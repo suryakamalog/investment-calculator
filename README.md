@@ -1,2 +1,2 @@
 # Investment Calculator
-## React demo project
+React demo project
